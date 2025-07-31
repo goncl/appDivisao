@@ -1,35 +1,44 @@
-<h1 align="center"> App de Divisao </h1>
+<h1 align="center">➗ App de Divisão</h1>
 
 <p align="center">
-    Programa para realizar divisões . <br/>
+  Aplicativo simples desenvolvido para realizar operações de <strong>divisão</strong> entre dois números de forma prática e rápida.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="Licença MIT" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto App para Divisões " src=".github/preview.png" width="100%">
+  <img alt="Visual do App de Divisão" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- PHP
+- ✅ HTML e CSS
+- ✅ JavaScript
+- ✅ PHP
+- ✅ Git & GitHub
 
 ## 💻 Projeto
 
-O App de Divisões serve para realizar divisões.
+O **App de Divisão** é uma ferramenta desenvolvida para facilitar o cálculo de divisões entre dois valores.  
+Além de retornar o resultado da divisão, o sistema trata possíveis erros como divisão por zero.
 
-- [Acesse o projeto finalizado, online](https://github.com/goncl/appDivisao)
+---
+
+👉 [Acesse o repositório do projeto no GitHub](https://github.com/goncl/appDivisao)
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.  
+Feito com 💻 por [Celso Gonçalves](https://github.com/goncl)
+
